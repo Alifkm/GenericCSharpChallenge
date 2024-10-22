@@ -1,0 +1,15 @@
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\bin\Debug\net6.0\GenericCSharpChallenge.exe
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\bin\Debug\net6.0\GenericCSharpChallenge.deps.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\bin\Debug\net6.0\GenericCSharpChallenge.runtimeconfig.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\bin\Debug\net6.0\GenericCSharpChallenge.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\bin\Debug\net6.0\GenericCSharpChallenge.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.csproj.AssemblyReference.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.AssemblyInfoInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.AssemblyInfo.cs
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.csproj.CoreCompileInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\refint\GenericCSharpChallenge.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\GenericCSharpChallenge.genruntimeconfig.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpChallenge\GenericCSharpChallenge\obj\Debug\net6.0\ref\GenericCSharpChallenge.dll
